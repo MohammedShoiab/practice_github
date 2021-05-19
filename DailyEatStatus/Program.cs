@@ -10,6 +10,8 @@ namespace DailyEatStatus
             Console.WriteLine("Hello Mirha!");
             Console.WriteLine("Hello Mirha11!");
             Console.WriteLine("Hello Mirha12!");
+            Console.WriteLine("Hello Mirha222!");
+            Console.WriteLine("Hello Mirha223!");
             DailyEat.foodfunc();
         }
     }
