@@ -7,7 +7,7 @@ namespace DailyEatStatus
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-<<<<<<< HEAD
+
             Console.WriteLine("Hello Mirha!");
             Console.WriteLine("Hello Mirha11!");
             Console.WriteLine("Hello Mirha12!");
