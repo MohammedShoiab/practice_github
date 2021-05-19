@@ -7,11 +7,14 @@ namespace DailyEatStatus
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+<<<<<<< HEAD
             Console.WriteLine("Hello Mirha!");
             Console.WriteLine("Hello Mirha11!");
             Console.WriteLine("Hello Mirha12!");
             Console.WriteLine("Hello Mirha222!");
             Console.WriteLine("Hello Mirha223!");
+=======
+>>>>>>> parent of 31680c6 (chnage 2nd)
             DailyEat.foodfunc();
         }
     }
